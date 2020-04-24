@@ -1,8 +1,11 @@
-# React Puro - 19
+## React Puro - 19
 
-## React puro con Hooks
+### React puro con Hooks
 
-- *usando React 16.13.x*
+| Termino  |     Valor     |
+|----------|:-------------:|
+| Versión  | React 16.13.x |
+| Repositorio | [github.com/zeroidentidad/react-puro-19](https://github.com/zeroidentidad/react-puro-19) |
 
 ### - Hola mundo
 
@@ -27,3 +30,7 @@
 - [Comunicación con componentes Padre](./3-props/comunicacion_componente_padre.md)
 
 - [Ejemplo Tweet con Props](./3-props/tweet_props.md)
+
+### - PropTypes
+
+- [Documentación y depuración incluida](./4-proptypes/doc_debug_incluida.md)
