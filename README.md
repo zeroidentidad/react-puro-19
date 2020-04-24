@@ -34,3 +34,5 @@
 ### - PropTypes
 
 - [Documentación y depuración incluida](./4-proptypes/doc_debug_incluida.md)
+
+- [Cómo validar, formas comunes](./4-proptypes/formas_validar.md)
