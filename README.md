@@ -2,7 +2,7 @@
 
 ### React puro con Hooks
 
-| Termino  |     Valor     |
+|          |               |
 |----------|:-------------:|
 | Versión  | React 16.13.x |
 | Repositorio | [github.com/zeroidentidad/react-puro-19](https://github.com/zeroidentidad/react-puro-19) |
@@ -40,3 +40,15 @@
 - [Ejemplo Tweet con PropTypes](./4-proptypes/tweet_proptypes.md)
 
 - [PropTypes como documentación](./4-proptypes/doc_proptypes.md)
+
+### - Children
+
+- [Los Children](./5-children/children.md)
+
+- [Diferentes tipos de Children](./5-children/tipos_children.md)
+
+- [Manejando uso Children](./5-children/manejo_children.md)
+
+- [PropTypes para Children](./5-children/proptypes_children.md)
+
+- [Personalizar Children antes de renderizar](./5-children/personalizar_children.md)
