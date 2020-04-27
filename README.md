@@ -52,3 +52,9 @@
 - [PropTypes para Children](./5-children/proptypes_children.md)
 
 - [Personalizar Children antes de renderizar](./5-children/personalizar_children.md)
+
+### - Practica: GitHub File List
+
+- [Parte inicial](./6-github-file-list/parte_1.md)
+
+- [Parte 2: la Prop 'key'](./6-github-file-list/parte_2.md)
