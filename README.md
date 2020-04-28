@@ -58,3 +58,17 @@
 - [Parte inicial](./6-github-file-list/parte_1.md)
 
 - [Parte 2: la Prop 'key'](./6-github-file-list/parte_2.md)
+
+### - State en Clases
+
+- [El state](./7-state-en-clases/state.md)
+
+- [Ejemplo inicial: un contador](./7-state-en-clases/ejemplo_contador.md)
+
+- [setState es Asincrónico](./7-state-en-clases/setstate_asincrono.md)
+
+- [Fusión superficial vs profunda](./7-state-en-clases/fusion_superficial_profunda.md)
+
+- [Sintaxis limpia en Class Components](./7-state-en-clases/sintaxis_limpia_class_components.md)
+
+- [Manejo de eventos](./7-state-en-clases/manejo_eventos.md)
