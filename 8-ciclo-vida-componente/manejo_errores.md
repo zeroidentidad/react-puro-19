@@ -1,0 +1,3 @@
+# Manejo de errores
+
+**componentDidCatch**: Se llama a este método cuando un componente secundario o uno de sus elementos hijos arroja un error dentro del constructor, durante el render o en un método de ciclo de vida. (Esto no incluye errores que ocurren dentro de los handlers de eventos, por ejemplo). Este método permite implementar límites de error dentro de la aplicación, y en la práctica, generalmente solo se tiene uno o unos cuantos componentes que implementan esto, y se usan en o cerca de la raíz de la aplicación. Tener en cuenta que esto no se llama cuando el componente que lo implementa arroja un error dentro de sí mismo, solo se desencadena por errores en los hijos (children).

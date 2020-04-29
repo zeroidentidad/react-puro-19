@@ -72,3 +72,17 @@
 - [Sintaxis limpia en Class Components](./7-state-en-clases/sintaxis_limpia_class_components.md)
 
 - [Manejo de eventos](./7-state-en-clases/manejo_eventos.md)
+
+### - Ciclo de vida del componente
+
+- [El ciclo](./8-ciclo-vida-componente/ciclo.md)
+
+- [Fases](./8-ciclo-vida-componente/fases.md)
+
+- [Montaje](./8-ciclo-vida-componente/montaje.md)
+
+- [Representación](./8-ciclo-vida-componente/representacion.md)
+
+- [Desmontaje](./8-ciclo-vida-componente/desmontaje.md)
+
+- [Manejo de errores](./8-ciclo-vida-componente/manejo_errores.md)
