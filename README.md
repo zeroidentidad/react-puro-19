@@ -86,3 +86,15 @@
 - [Desmontaje](./8-ciclo-vida-componente/desmontaje.md)
 
 - [Manejo de errores](./8-ciclo-vida-componente/manejo_errores.md)
+
+### - Solicitudes API en React
+
+- [Intro](./9-requests-api/intro.md)
+
+- [Eligir libreria HTTP](./9-requests-api/libreria_http.md)
+
+- [Obtener datos y mostrarlos](./9-requests-api/obtener_mostrar_datos.md)
+
+### - State en Funciones
+
+**En progreso...**
