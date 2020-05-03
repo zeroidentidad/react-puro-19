@@ -107,4 +107,6 @@
 
 - [Actualizar State basado en State anterior](./10-state-en-funciones/actualizar_state_de_state_anterior.md)
 
+- [State como un Array](./10-state-en-funciones/state_array.md)
+
 **En progreso...**
