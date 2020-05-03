@@ -109,4 +109,6 @@
 
 - [State como un Array](./10-state-en-funciones/state_array.md)
 
+- [State como un Objeto](./10-state-en-funciones/state_objeto.md)
+
 **En progreso...**
