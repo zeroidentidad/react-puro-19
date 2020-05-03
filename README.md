@@ -103,4 +103,6 @@
 
 - [La "magia" de los Hooks](./10-state-en-funciones/magia_hook.md)
 
+- [Reglas de los Hooks](./10-state-en-funciones/reglas_hooks.md)
+
 **En progreso...**
