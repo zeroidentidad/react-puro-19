@@ -101,4 +101,6 @@
 
 - [El useState Hook](./10-state-en-funciones/usestate_hook.md)
 
+- [La "magia" de los Hooks](./10-state-en-funciones/magia_hook.md)
+
 **En progreso...**
