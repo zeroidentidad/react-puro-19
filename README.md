@@ -105,4 +105,6 @@
 
 - [Reglas de los Hooks](./10-state-en-funciones/reglas_hooks.md)
 
+- [Actualizar State basado en State anterior](./10-state-en-funciones/actualizar_state_de_state_anterior.md)
+
 **En progreso...**
