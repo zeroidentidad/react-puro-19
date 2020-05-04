@@ -115,4 +115,6 @@
 
 - [Qué colocar en el State](./11-pensando-uso-state/que_colocar_en_state.md)
 
+- [Pensando declarativamente](./11-pensando-uso-state/pensando_declarativamente.md)
+
 **En progreso...**
