@@ -111,4 +111,8 @@
 
 - [State como un Objeto](./10-state-en-funciones/state_objeto.md)
 
+## - Pensando en uso del State
+
+- [Qué colocar en el State](./11-pensando-uso-state/que_colocar_en_state.md)
+
 **En progreso...**
