@@ -117,4 +117,6 @@
 
 - [Pensando declarativamente](./11-pensando-uso-state/pensando_declarativamente.md)
 
+- [Dónde mantener el estado](./11-pensando-uso-state/donde_mantener_estado.md)
+
 **En progreso...**
