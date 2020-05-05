@@ -119,4 +119,6 @@
 
 - [Dónde mantener el estado](./11-pensando-uso-state/donde_mantener_estado.md)
 
+- ["Tipos" de componentes](./11-pensando-uso-state/tipos_componentes.md)
+
 **En progreso...**
