@@ -121,4 +121,12 @@
 
 - ["Tipos" de componentes](./11-pensando-uso-state/tipos_componentes.md)
 
+## - Controles de entrada
+
+- [Entradas controladas](./12-controles-entrada/entradas_controladas.md)
+
+- [Entradas no controladas](./12-controles-entrada/entradas_no_controladas.md)
+
+## - El Hook useReducer
+
 **En progreso...**
