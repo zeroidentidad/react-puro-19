@@ -125,7 +125,7 @@
 
 - [Entradas controladas](./12-controles-entrada/entradas_controladas.md)
 
-- [Entradas no controladas](./12-controles-entrada/no_controladas.md)
+- [Entradas NO controladas](./12-controles-entrada/entradas_no_controladas.md)
 
 ## - El Hook useReducer
 
