@@ -131,4 +131,6 @@
 
 - [Qué es un Reducer?](./13-hook-usereducer/que_es_reducer.md)
 
+- [Un ejemplo más practico](./13-hook-usereducer/ejemplo_practico.md)
+
 **En progreso ...**
