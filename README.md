@@ -133,4 +133,8 @@
 
 - [Un ejemplo más practico](./13-hook-usereducer/ejemplo_practico.md)
 
+- [Entonces, Redux murió?](./13-hook-usereducer/redux_muerto.md)
+
+## - El Hook useEffect
+
 **En progreso ...**
