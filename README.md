@@ -129,4 +129,6 @@
 
 ## - El Hook useReducer
 
+- [Qué es un Reducer?](./13-hook-usereducer/que_es_reducer.md)
+
 **En progreso ...**
