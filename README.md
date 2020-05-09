@@ -139,4 +139,6 @@
 
 - [Intro useEffect](./14-hook-useeffect/intro_useeffect.md)
 
+- [Límite cuando se ejecuta un Effect](./14-hook-useeffect/limite_useeffect.md)
+
 **En progreso ...**
