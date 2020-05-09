@@ -1,6 +1,6 @@
-## React Puro - 19
+# React Puro - 19
 
-### React puro con Hooks
+## React puro con Hooks
 
 |          |               |
 |----------|:-------------:|
@@ -111,7 +111,7 @@
 
 - [State como un Objeto](./10-state-en-funciones/state_objeto.md)
 
-## - Pensando en uso del State
+### - Pensando en uso del State
 
 - [Qué colocar en el State](./11-pensando-uso-state/que_colocar_en_state.md)
 
@@ -121,13 +121,13 @@
 
 - ["Tipos" de componentes](./11-pensando-uso-state/tipos_componentes.md)
 
-## - Controles de entrada
+### - Controles de entrada
 
 - [Entradas controladas](./12-controles-entrada/entradas_controladas.md)
 
 - [Entradas NO controladas](./12-controles-entrada/entradas_no_controladas.md)
 
-## - El Hook useReducer
+### - El Hook useReducer
 
 - [Qué es un Reducer?](./13-hook-usereducer/que_es_reducer.md)
 
@@ -135,7 +135,7 @@
 
 - [Entonces, Redux murió?](./13-hook-usereducer/redux_muerto.md)
 
-## - El Hook useEffect
+### - El Hook useEffect
 
 - [Intro useEffect](./14-hook-useeffect/intro_useeffect.md)
 
