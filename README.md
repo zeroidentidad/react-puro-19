@@ -141,4 +141,6 @@
 
 - [Límite cuando se ejecuta un Effect](./14-hook-useeffect/limite_useeffect.md)
 
+- [Solo ejecución en montaje y desmontaje](./14-hook-useeffect/ejecutar_en_montaje_demontaje.md)
+
 **En progreso ...**
