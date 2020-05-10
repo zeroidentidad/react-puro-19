@@ -143,4 +143,6 @@
 
 - [Solo ejecución en montaje y desmontaje](./14-hook-useeffect/ejecutar_en_montaje_demontaje.md)
 
+- [Obtener datos (Fetch) con useEffect](./14-hook-useeffect/fetch_datos_useeffect.md)
+
 **En progreso ...**
