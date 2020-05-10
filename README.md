@@ -153,4 +153,6 @@
 
 - [Intro API Context](./15-api-context/intro_api_context.md)
 
+- [Ejemplo perforación de props](./15-api-context/drilling_props.md)
+
 **En progreso ...**
