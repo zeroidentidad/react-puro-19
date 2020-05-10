@@ -161,4 +161,6 @@
 
 - [Patrón "Render Props"](./15-api-context/patron_render_props.md)
 
+- [Otros Patrones de Context](./15-api-context/otros_patrones_context.md)
+
 **En progreso ...**
