@@ -159,4 +159,6 @@
 
 - [Usando React API Context](./15-api-context/uso_react_api_context.md)
 
+- [Patrón "Render Props"](./15-api-context/patron_render_props.md)
+
 **En progreso ...**
