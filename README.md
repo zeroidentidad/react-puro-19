@@ -157,4 +157,6 @@
 
 - [Patrón "Slots"](./15-api-context/patron_slots.md)
 
+- [Usando React API Context](./15-api-context/uso_react_api_context.md)
+
 **En progreso ...**
