@@ -145,4 +145,6 @@
 
 - [Obtener datos (Fetch) con useEffect](./14-hook-useeffect/fetch_datos_useeffect.md)
 
+- [Re-obtener datos (Re-Fetch) cuando cambian](./14-hook-useeffect/re-fetch_datos_useeffect.md)
+
 **En progreso ...**
