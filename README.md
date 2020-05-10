@@ -155,4 +155,6 @@
 
 - [Ejemplo perforación de props](./15-api-context/drilling_props.md)
 
+- [Patrón "Slots"](./15-api-context/patron_slots.md)
+
 **En progreso ...**
