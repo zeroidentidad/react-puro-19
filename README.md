@@ -147,4 +147,6 @@
 
 - [Re-obtener datos (Re-Fetch) cuando cambian](./14-hook-useeffect/re-fetch_datos_useeffect.md)
 
+- [Hacer cambios visibles del DOM](./14-hook-useeffect/visible_cambios_dom.md)
+
 **En progreso ...**
