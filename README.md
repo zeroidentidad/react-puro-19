@@ -164,3 +164,10 @@
 - [Otros Patrones de Context](./15-api-context/otros_patrones_context.md)
 
 - [El Hook useContext](./15-api-context/hook_usecontext.md)
+
+
+### - Anexos complementos
+
+- [Ref. Awesome React](https://github.com/enaqx/awesome-react)
+
+- [Ref. Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks) 
