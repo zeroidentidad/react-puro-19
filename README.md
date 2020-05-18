@@ -171,3 +171,5 @@
 - [Ref. Awesome React](https://github.com/enaqx/awesome-react)
 
 - [Ref. Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks) 
+
+- [Ref. Awesome React GraphQL](https://github.com/hasura/awesome-react-graphql) 
